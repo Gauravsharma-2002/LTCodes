@@ -10,8 +10,6 @@ public:
         farthest = max(farthest, i+ nums[i]);
        }
        return true;
-
-
         
     }
 };
